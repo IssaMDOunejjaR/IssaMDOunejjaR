@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Testing Libraries for Frontend frameworks**
 
-- 👨‍💻 All of my projects are available at [issamounejjar.live](issamounejjar.live)
+- 👨‍💻 All of my projects are available at [issamounejjar.live](https://issamounejjar.live)
 
 - 📫 How to reach me **issam.ounejjar@gmail.com**
 
