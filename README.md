@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/issamdounejjar" target="blank"><img src="https://img.shields.io/twitter/follow/issamdounejjar?logo=twitter&style=for-the-badge" alt="issamdounejjar" /></a> </p>
 
-- 🔭 I’m currently working on **Transcendence (42 school project)**
+- 🔭 I’m currently working on **learning new skills**
 
-- 🌱 I’m currently learning **Testing Libraries for Frontend frameworks**
+- 🌱 I’m currently learning **Blockchain and Smart Contracts technologies**
 
 - 👨‍💻 All of my projects are available at [issamounejjar.live](https://issamounejjar.live)
 
